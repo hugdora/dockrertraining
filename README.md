@@ -1,1 +1,3 @@
-# dockrertraining
+# maven-project
+
+Simple Maven Project
